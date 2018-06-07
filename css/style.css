@@ -138,3 +138,8 @@ a:hover, a:active {
   padding: 0;
   font-size: 0.8em;
 }
+
+.description {
+  text-align: justify;
+  text-indent: 40px;
+}
